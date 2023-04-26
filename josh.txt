@@ -1,0 +1,10 @@
+ Volume in drive C is Windows-SSD
+ Volume Serial Number is 7015-4415
+
+ Directory of C:\Users\JESUS\Desktop\git
+
+26-04-2023  16:10    <DIR>          .
+26-04-2023  15:46    <DIR>          ..
+26-04-2023  16:10                 0 josh.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  137,652,002,816 bytes free
